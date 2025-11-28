@@ -10,6 +10,8 @@
         $potongan=0.1;
         $net=$jual-($jual * $potongan);
         echo "Penjualan bersih = Rp $net,00";
+        echo '<br>';
+        echo 'Dibuat oleh Robert Ang | A12.2024.07160';
     ?>
 </body>
 </html>

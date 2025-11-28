@@ -15,6 +15,8 @@
         }else{
             echo "Saya Juga";
         }
+        echo '<br>';
+        echo 'Dibuat oleh Robert Ang | A12.2024.07160';
         ?>
     </body>
 </html>

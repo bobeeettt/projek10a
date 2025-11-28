@@ -13,6 +13,9 @@
             echo "Hasil dari $a + $b = $c<br>";
             $c=$a/$b;
             echo "Hasil dari $a / $b = $c<br>";
+            echo '<br>';
+        echo 'Dibuat oleh Robert Ang | A12.2024.07160';
+    ?>
         ?>
     </body>
 </html>
